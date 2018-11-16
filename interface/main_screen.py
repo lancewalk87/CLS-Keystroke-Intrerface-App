@@ -2,9 +2,8 @@
 # -*- coding: utf-8 -*-
 '''
 * Keystroke Interface
-* package: interface
+* main_screen.py
 * --------------------------------
 * Created by Lance T. Walker on 11/12/2018
 * Copyright © 2018 CodeLife Productions. All rights reserved.
 '''
-
